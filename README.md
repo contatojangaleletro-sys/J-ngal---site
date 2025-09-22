@@ -376,3 +376,13 @@
 
 </body>
 </html>
+jangal-loja/
+│
+├── index.html      ← Código HTML que eu já te passei
+├── style.css       ← CSS separado (opcional, se quiser separar do HTML)
+├── img/            ← Pasta para imagens dos produtos e banner
+│     ├── banner.jpg
+│     ├── fone.jpg
+│     ├── caixa-som.jpg
+│     ├── pote.jpg
+│     └── bacia.jpg
